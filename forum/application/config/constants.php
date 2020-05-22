@@ -119,4 +119,3 @@ defined('PENDING')     OR define('PENDING',3);
 defined('MEMBER')     OR define('MEMBER',4);
 defined('MODO')     OR define('MODO',5);
 defined('ADMIN')     OR define('ADMIN',6);
-defined("FABB") OR define("FABB", true);
