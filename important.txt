@@ -1,0 +1,6 @@
+
+fabb version 3.0.0
+
+Avant de proceder à l'installation de fabb, veuillez lire les fichiers inclus dans le dossier docs.
+
+vous y trouverez des informations très importantes.
