@@ -1,6 +1,16 @@
 
 fabb version 3.0.0
 
+Important :: cette copie est une copie beta, elle est en phase d'essai. Si vous rencontrez des bugs ou 
+
+des problèmes quelqu'ils soient, veuillez nous faire un retour ux (https://www.forum-fabb.com/contact) ou
+
+par email:: admin@forum-fabb.com 
+
 Avant de proceder à l'installation de fabb, veuillez lire les fichiers inclus dans le dossier docs.
 
 vous y trouverez des informations très importantes.
+
+Confiance aveugle dans notre communauté.
+
+admin
