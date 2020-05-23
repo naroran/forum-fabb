@@ -1,0 +1,64 @@
+
+Installation fabb
+
+IMPORTANT :: Gardez une copie vierge de l'archive que vous venez de télécharger, vous en aurez besoin en
+
+ cas ou votre installation automatique echoue.
+
+1:: Si ce n'est pas déjà fait, décompressez le contenu de l'archive que vous venez de télécharger sur votre
+
+ ordinateur à l'aide d'un utilitaire de décompression tel que (WinZip, WinRAR).
+
+2:: À l'aide d'un client FTP (FlashFXP, FileZilla, SmartFTP) ou d'un gestionnaire de fichiers de votre choix,
+
+ uploadez les dossiers forum et install de l'archive vers votre serveur web et mettez les à la racine de
+ 
+votre serveur. Je dis à la racine de votre serveur, c'est très important.
+
+3:: Si sur la racine de votre site se trouvent un dossier qui a le même nom que le dossier install, alors
+
+ vous devez renommer ou supprimer le votre provisoirement, juste le temps necessaire pour installer le 
+
+forum.
+
+4:: Lancez votre navigateur et saisissez l'URL suivante :: https://wwww.your-website.tld/install
+
+5:: Veuillez suivre l'assistant d'installation en vous assurant d'avoir les informations suivantes à portée 
+
+de main:
+5.1 : Mysql: vous aurez besoin des détails de votre base de données pour que fabb puisse s'y connecter.
+
+Vous avez besoin de votre nom d'utilisateur MySQL, mot de passe, nom de la base de données et le nom d’hôte 
+
+de votre serveur MySQL.
+5.2 : Forum : le nom de dossier de votre forum (Par défaut, c'est forum), le nom de votre site Web et l'URL 
+
+de votre site Web.
+
+5.3 :Administrateur: Pendant le processus d'installation, vous devrez créer votre compte administrateur 
+
+initial. Vous devrez connaître le nom d'utilisateur, le mot de passe et l'adresse e-mail que vous prévoyez 
+
+d'utiliser pour ce compte.
+
+6:: Une fois l'installation terminée, le script écrase tous les fichiers d'installations du dossier 
+
+'Install' automatiquement. Pour plus de sécurité, après la fin de l'installation, même si le dossier Install
+
+ est vide il faut le supprimer manuellement.
+
+7:: Lors du déroulement de l'installation, si vous recevez des messages concernant le CHMOD des fichiers. 
+
+Alors vous devez chmoder le fichier en question.
+
+8:: après la fin de l'installation, vous serez redirigé automatiquement vers le panel de control 
+
+d'administrateur (A-Panel) pour configurer votre forum.
+
+9:: vous pouvez créer autant d'administrateurs que vous voulez. Il n'y a pas de limite.
+Vous pouvez créer autant de modérateurs que vous voulez. Il n'y a pas de limite.
+
+10:: Si vous respectez ces simples recommandations, alors je vous dis à l'avance félicitations, vous 
+
+devriez avoir une copie de fabb fonctionnelle sur votre serveur Web.
+faites joujou avec votre forum fabb. enjoy..!

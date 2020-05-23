@@ -1,0 +1,33 @@
+/*****************
+
+Qu’est-ce que fabb
+******************/
+
+Le forum fabb est une application web écrite en php. Une application de discussion, sorte d'un sujet autour duquel se développent des questions et des réponses. 
+Chaque membre inscrit peut lancer un sujet de discussion sans limite, il peut fermer le sujet à n'importe quel moment s'il juge qu'il a obtenu les réponses satisfaisantes. 
+Le but du forum fabb est de mettre à la disposition de ses utilisateurs un forum simple, facile à gérer et techniquement appréhendable même pour ceux qui n'ont aucune connaissance dans l'informatique.
+  Grace à fabb, vous pouvez dès maintenant commencer à construire  votre communauté autour de votre vocation et  autour de votre  centre d'intérêt.
+
+/***********
+Mise à jour
+***********/
+
+L'application peut subir des mises à jour dans le futur, la raison pour laquelle nous vous demandons de visiter le site pour être au courant des dernières mises à jour qu’elles soient globales ou partielles.
+ https//www.forum-fabb.com/
+
+ /*********************
+ Configuration requise 
+ **********************/
+ PHP: version 5.6 ou plus récente est recommandée.
+ PHP version 7.*.*  est idéale.
+ Un nom de domaine avec ssl est fortement recommandé.
+
+Le forum devrait aussi fonctionner sur 5.3.7, en même temps nous vous conseillons fortement de ne le pas exécuter sur des anciennes versions de PHP, en raison de la sécurité et des problèmes de performances potentielles, ainsi à cause des fonctionnalités qui ont été ajoutés ou mis à jour dans PHP.
+
+MYSQL: Version 5.7 est requise au minimum.
+
+************
+Installation
+************
+L'installation du forum fabb est gérer automatiquement: 
+veuillez consultez le fichier installation

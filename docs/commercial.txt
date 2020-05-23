@@ -1,0 +1,20 @@
+Commercial licensing
+
+fabb is publicly distributed under General Public License (GPL), version 3.
+
+In cases when GPL version of fabb could not be used because of license restrictions,
+ you can obtain a “commercial” license by contacting us at ::
+
+https://www.forum-fabb.com/contact 
+or
+admin@forum-fabb.com
+
+Pricing depends on a variety of factors: the nature of the application, licensing 
+volume, retail price, royalty policy, amount of required technical support and/or development,
+ etc. We pride ourselves on being able to map our pricing to your application model, and working
+  with organizations to meet their 'cost of good sold' goals. Thus, we do not openly publish our 
+licensing prices, essentially because every case that we deal with is different.
+
+If you have any questions regarding our licensing polices or if you are interested in working
+ with us to generate a quote please feel free to fill out our Contact Form as mentionned above and we
+ will reach out to you as soon as possible. 

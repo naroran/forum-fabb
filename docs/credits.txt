@@ -1,0 +1,29 @@
+/**
+*
+* fabb © Copyright fabb Limited 2018-2020
+* http://www.forum-fabb.com
+*
+* fabb is free software. You can redistribute it and/or modify it
+* under the terms of the GNU General Public License, version 3 (GPL-3.0)
+* as published by the Free Software Foundation.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+* GNU General Public License for more details.
+*
+* A copy of the license can be viewed in the docs/licence.txt file.
+* The same can be viewed at <https://www.gnu.org/licenses/gpl-3.0.txt>
+*
+*/
+fabb Project Manager:   faci abdelhafid
+fabb Developer:        faci abdelhafid
+
+GPL licenced:
+phpMyAdmin (c) 2003, 2019 phpMyAdmin http://www.phpmyadmin.net/
+Copyright 2019 The jQuery Foundation. jQuery License
+PHP License, version 7.0.23
+Pear Copyright © 2001-2019 The PHP Group, http://pear.php.net
+MIT licenced:
+bootstrap copyright 2011-2019 https://github.com/twbs/bootstrap/blob/master/LICENSE
+codeigniter Copyright (c) 2014 - 2019, British Columbia Institute of Technology
